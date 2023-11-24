@@ -1,1 +1,2 @@
 Line 1:This is first commit and pushed to git hub first time.
+Line 2: This is changes corresponding to issue Add line 2
